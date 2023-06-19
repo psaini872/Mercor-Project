@@ -1,9 +1,9 @@
 import React from 'react';
-import p11 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p1.svg';
-import p12 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p2.svg';
-import p13 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p3.svg';
-import mobile from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/cardimg.png';
-import flower from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/unsplash_MicqqGyDQ6w.png';
+import p11 from '/images/p1.svg';
+import p12 from '/images/p2.svg';
+import p13 from '/images/p3.svg';
+import mobile from '/images/cardimg.png';
+import flower from '/images/unsplash_MicqqGyDQ6w.png';
 import { useDrag } from 'react-dnd';
 
 const Card = ({ task }) => {

@@ -1,9 +1,9 @@
 import svg from './images/profileimg.png';
-import svg2 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/Ellipse.svg';
-import p1 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p1.svg';
-import p2 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p2.svg';
-import p3 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p3.svg';
-import p4 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p4.svg';
+import svg2 from '/images/Ellipse.svg';
+import p1 from '/images/p1.svg';
+import p2 from '/images/p2.svg';
+import p3 from '/images/p3.svg';
+import p4 from '/images/p4.svg';
 import Button from './Components/Button';
 import List from './Components/List';
 
