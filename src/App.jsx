@@ -1,4 +1,4 @@
-import svg from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/profileimg.png';
+import svg from './images/profileimg.png';
 import svg2 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/Ellipse.svg';
 import p1 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p1.svg';
 import p2 from '/Users/pranshusaini/Desktop/Mercor/mercor/src/images/p2.svg';
